@@ -28,9 +28,18 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
-            ],
-            "scripts": []
+              "src/styles.css",
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "src/assets/libs/fonts/customFont.css"
+          ],
+          "scripts": [
+              "node_modules/jquery/dist/jquery.slim.min.js",
+              "node_modules/popper.js/dist/umd/popper.min.js",
+              "node_modules/bootstrap/dist/js/bootstrap.min.js"
+
+
+          ]
+
           },
           "configurations": {
             "production": {
@@ -124,5 +133,8 @@
       }
     }
   },
-  "defaultProject": "pindoValeria"
+  "defaultProject": "pindoValeria",
+  "cli": {
+    "analytics": "542c9028-78b2-4a64-a53b-01be2c302e36"
+  }
 }

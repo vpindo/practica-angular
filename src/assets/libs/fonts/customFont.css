@@ -1,0 +1,21 @@
+/* Importar fuente */
+@font-face {
+    font-family: "Hachi-Maru-Pop";
+    src: url(./HachiMaruPop-Regular.ttf) format("opentype");
+}
+
+
+@font-face {
+    font-family: "Quicksand-VariableFont_wght";
+    src: url(./Quicksand-VariableFont_wght.ttf) format("opentype");
+}
+
+@font-face {
+    font-family: "Telex-Regular";
+    src: url(./Telex-Regular.ttf) format("opentype");
+}
+@font-face {
+    font-family: "Niconne-Regular";
+    src: url(./Niconne-Regular.ttf) format("opentype");
+}
+

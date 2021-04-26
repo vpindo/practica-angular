@@ -1,0 +1,49 @@
+.navbar-toggler {
+    border-color: rgb(167, 167, 173, 0.624);
+  }
+ 
+.navbar-custom {
+    background-color:#FFF8F6;
+}
+.navbar-custom .navbar-nav .nav-link {
+    color: rgba(167, 167, 173, 0.624);
+}
+
+
+
+
+.navbar-custom .nav-item.active .nav-link,
+.navbar-custom .nav-item:focus .nav-link,
+.navbar-custom .nav-item:hover .nav-link {
+    color: #1F1F26;
+}
+
+.navbar-custom .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%167,167,163,0.624%' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+  }
+  
+ 
+ .Hachi-Maru-Pop
+ {
+     font-family: "Telex-Regular" !important ;
+     font-weight: bold;
+    font-size: 1rem;
+ }
+
+ .punt
+ {
+     
+     font-family: "Niconne-Regular" !important ;
+     font-weight: bold;
+    color: #1F1F26;
+    vertical-align: middle;
+    align-items: center;
+    font-size: 1.5rem;
+   
+
+
+ }
+ .navbar-light {
+    background-color:#FAE4E6;
+}
+
